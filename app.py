@@ -13,11 +13,7 @@ import os
 # -----------------------------
 st.set_page_config(page_title="Solar Cell Model Dashboard", layout="wide")
 st.title("🔆 Solar Cell ML Model Evaluation Dashboard")
-import os
-import streamlit as st
 
-st.write("Current working directory:", os.getcwd())
-st.write("Files in current directory:", os.listdir())
 
 # -----------------------------
 # Input: Folder Path
