@@ -27,7 +27,7 @@ folder_path = st.text_input(
     ""
 )
 data_dir = folder_path if folder_path else "."
-x_test_file = os.path.join(data_dir, "x_test_processed.csv")
+x_test_file = os.path.join(data_dir, "X_test_processed.csv")
 y_test_file = os.path.join(data_dir, "y_test_processed.csv")
 
 # -----------------------------
