@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning Models
+xgboost
+lightgbm
+torch
+joblib
+
+# Explainability
+shap
+
+# Dimensionality Reduction / Clustering / Anomaly
+umap-learn
+scikit-learn-intelex
+
+# Streamlit App (if using visualization dashboard)
+streamlit
+streamlit-option-menu
+
+# Others (utilities)
+tqdm
+pillow
