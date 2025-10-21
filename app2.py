@@ -540,7 +540,7 @@ if load_error:
 # -----------------------------
 # Load Test Data
 # -----------------------------
-x_test_file = os.path.join(data_dir, "x_test_processed.csv")
+x_test_file = os.path.join(data_dir, "X_test_processed.csv")
 y_test_file = os.path.join(data_dir, "y_test_processed.csv")
 
 if not (os.path.exists(x_test_file) and os.path.exists(y_test_file)):
